@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections; // a class stack está contida nessa biblioteca
+using System.Collections; 
 
 namespace pilha
 {
