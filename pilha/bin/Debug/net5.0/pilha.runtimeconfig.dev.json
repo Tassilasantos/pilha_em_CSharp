@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/tassila/.dotnet/store/|arch|/|tfm|",
+      "/home/tassila/.nuget/packages"
+    ]
+  }
+}
