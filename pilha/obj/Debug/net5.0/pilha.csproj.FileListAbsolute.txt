@@ -1,0 +1,16 @@
+/home/tassila/Área de Trabalho/c#/pilha/pilha/bin/Debug/net5.0/pilha
+/home/tassila/Área de Trabalho/c#/pilha/pilha/bin/Debug/net5.0/pilha.deps.json
+/home/tassila/Área de Trabalho/c#/pilha/pilha/bin/Debug/net5.0/pilha.runtimeconfig.json
+/home/tassila/Área de Trabalho/c#/pilha/pilha/bin/Debug/net5.0/pilha.runtimeconfig.dev.json
+/home/tassila/Área de Trabalho/c#/pilha/pilha/bin/Debug/net5.0/pilha.dll
+/home/tassila/Área de Trabalho/c#/pilha/pilha/bin/Debug/net5.0/ref/pilha.dll
+/home/tassila/Área de Trabalho/c#/pilha/pilha/bin/Debug/net5.0/pilha.pdb
+/home/tassila/Área de Trabalho/c#/pilha/pilha/obj/Debug/net5.0/pilha.csproj.AssemblyReference.cache
+/home/tassila/Área de Trabalho/c#/pilha/pilha/obj/Debug/net5.0/pilha.GeneratedMSBuildEditorConfig.editorconfig
+/home/tassila/Área de Trabalho/c#/pilha/pilha/obj/Debug/net5.0/pilha.AssemblyInfoInputs.cache
+/home/tassila/Área de Trabalho/c#/pilha/pilha/obj/Debug/net5.0/pilha.AssemblyInfo.cs
+/home/tassila/Área de Trabalho/c#/pilha/pilha/obj/Debug/net5.0/pilha.csproj.CoreCompileInputs.cache
+/home/tassila/Área de Trabalho/c#/pilha/pilha/obj/Debug/net5.0/pilha.dll
+/home/tassila/Área de Trabalho/c#/pilha/pilha/obj/Debug/net5.0/ref/pilha.dll
+/home/tassila/Área de Trabalho/c#/pilha/pilha/obj/Debug/net5.0/pilha.pdb
+/home/tassila/Área de Trabalho/c#/pilha/pilha/obj/Debug/net5.0/pilha.genruntimeconfig.cache
